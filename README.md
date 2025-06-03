@@ -85,3 +85,10 @@ This repo is inspired from the contents of this [repo](https://github.com/Diksha
 
 ![Categorization of hurricanes given windspeed and pressure](./assets/image.png)
 [NOAA](https://www.ssd.noaa.gov/PS/TROP/CI-chart.html)
+
+
+# Contributors
+
+Aadi Tiwari
+Aarush Narang
+Arnav Saharan
